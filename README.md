@@ -1,16 +1,17 @@
 # C Exam Alone In The Dark - Beginner
 
 My initial solutions to 42's exam exercises
-The exercise of Level 0 : This File []()
 
-The exercise of Level 1 : This File []()
+The exercises of Level 0: [Level_00](https://github.com/barimehdi77/42-piscine-exam/tree/master/Level_00)
 
-The exercise of Level 2 : This File []()
+The exercises of Level 1: [Level_01](https://github.com/barimehdi77/42-piscine-exam/tree/master/Level_01)
 
-The exercise of Level 3 : This File []()
+The exercises of Level 2: [Level_02](https://github.com/barimehdi77/42-piscine-exam/tree/master/Level_02)
 
-The exercise of Level 4 : This File []()
+The exercises of Level 3: [Level_03](https://github.com/barimehdi77/42-piscine-exam/tree/master/Level_03)
 
-The exercise of Level 5 : This File []()
+The exercises of Level 4: [Level_04](https://github.com/barimehdi77/42-piscine-exam/tree/master/Level_04)
+
+The exercises of Level 5: [Level_05](https://github.com/barimehdi77/42-piscine-exam/tree/master/Level_05)
 
 and good luck in The exams :)
