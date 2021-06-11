@@ -1,9 +1,6 @@
 # C Exam Alone In The Dark - Beginner
 
 My initial solutions to 42's exam exercises
-# barimehdi77
-# barimehdi77
-# barimehdi77
 The exercise of Level 0 : Started with 0-*.c
 
 The exercise of Level 1 : Started with 1-*.c
