@@ -1,6 +1,6 @@
 # C Exam Alone In The Dark - Beginner
 
-My initial solutions to 42's exam exercises
+The solutions to 42's exam exercises
 
 The exercises of Level 0: [Level_00](https://github.com/barimehdi77/42-piscine-exam/tree/master/Level_00)
 
@@ -14,4 +14,4 @@ The exercises of Level 4: [Level_04](https://github.com/barimehdi77/42-piscine-e
 
 The exercises of Level 5: [Level_05](https://github.com/barimehdi77/42-piscine-exam/tree/master/Level_05)
 
-and good luck in The exams :)
+good luck in The exams :)
