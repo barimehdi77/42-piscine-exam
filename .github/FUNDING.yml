@@ -1,7 +1,12 @@
 # These are supported funding model platforms
 
-
-custom:
-  - "https://buymeacoff.ee/barimehdi77"
-  - "ko-fi.com/barimehdi77"
-github: "barimehdi77"
+# These are supported funding model platforms
+patreon: Barimehdi
+open_collective: # Replace with a single Open Collective username
+ko_fi: barimehdi77
+liberapay: Barimehdi77
+issuehunt: barimehdi77
+buymeacoffe: barimehdi77
+custom: 
+      - "buymeacoffee.com/barimehdi77"
+      - "https://paypal.me/barimehdi77?"
