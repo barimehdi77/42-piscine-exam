@@ -16,8 +16,6 @@ The exercises of **Level 5**: [Level_05](https://github.com/barimehdi77/42-pisci
 
 Good luck in The exams :)
 
-if you want to check out the days exercises and PDF's go here: [1337_Piscine](https://github.com/AbderrSfa/1337_Piscine)
-
 ---
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/barimehdi77)
