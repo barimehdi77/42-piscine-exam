@@ -52,7 +52,7 @@ char	*ft_strdup(char *str)
 char	*ft_itoa_base(int value, int base)
 {
 	int		i;
-	int		n;
+	int		s;
 	int		len;
 	char	*radix;
 	char	*result;
